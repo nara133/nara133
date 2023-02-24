@@ -1,16 +1,23 @@
-### Hi there 👋
+---
+Hi there 👋
 
-<!--
-**nara133/nara133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+# Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 👋
+
+**10**
+*10*<br>
+~~10~~
+```
+
+print(sss_)
+
+
+```
+
+
+
+- [x] 
+- [ ]
